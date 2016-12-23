@@ -37,6 +37,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Psychiatry
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
+ 
+## Risk
+
+- Nassim Nicholas Taleb: [The Intellectual Yet Idiot](https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.c9y6xhh3p)
 
 ## Security
 
