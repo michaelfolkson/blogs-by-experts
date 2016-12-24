@@ -15,6 +15,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Andreessen-Horowitz (et al.): [16 Definitions on the Economics of VC](http://a16z.com/2016/09/11/vc-economics/)
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+ - Nassim Nicholas Taleb: [The Intellectual Yet Idiot](https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.c9y6xhh3p)
 
 ## Computer science
 
@@ -37,10 +38,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Psychiatry
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
- 
-## Risk
-
-- Nassim Nicholas Taleb: [The Intellectual Yet Idiot](https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.c9y6xhh3p)
 
 ## Security
 
