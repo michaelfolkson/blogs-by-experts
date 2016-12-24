@@ -15,7 +15,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Andreessen-Horowitz (et al.): [16 Definitions on the Economics of VC](http://a16z.com/2016/09/11/vc-economics/)
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
- - Nassim Nicholas Taleb: [The Intellectual Yet Idiot](https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.c9y6xhh3p)
 
 ## Computer science
 
