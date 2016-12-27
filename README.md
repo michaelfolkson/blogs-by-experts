@@ -19,6 +19,8 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Fred Wilson: [MBA-Mondays: Sales Leads on a Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget/)
  - Brad Feld: [Feld Thoughts: Board Seat For Sale](http://www.feld.com/archives/2016/12/board-seat-sale.html)
  - Paul Graham: [Do Things that Don't Scale](http://paulgraham.com/ds.html)
+ - Nassim Taleb: [The Intellectual Yet Idiot](https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.iu3bvc3al)
+ 
 
 ## Chemistry
 
